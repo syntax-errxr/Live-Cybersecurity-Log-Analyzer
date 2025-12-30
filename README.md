@@ -47,6 +47,17 @@ A live web application to parse, analyze, and visualize log files for potential 
 - Just run script from src folder 
 - View real-time updates on the dashboard.
 - Receive instant alerts for any detected anomalies via email or SMS.
+- How to use your credentials for update? Just make .env file in src and paste this :-
+    ```
+    EMAIL_SENDER=
+    EMAIL_PASSWORD=Test0125@
+    EMAIL_RECEIVER=
+    TWILIO_SID=
+    TWILIO_AUTH_TOKEN=38d1a3cdda7755b6824120a1c6d4ffbb
+    TWILIO_PHONE=
+    ADMIN_PHONE=
+    ```
+  
 ---
 
 
