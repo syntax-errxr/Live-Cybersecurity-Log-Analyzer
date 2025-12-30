@@ -1,0 +1,251 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #121212;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.container {
+    width: 85%;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Headings */
+h1, h2 {
+    text-align: center;
+    color: #00d4ff;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #1e1e1e;
+    padding: 15px;
+    text-align: center;
+    border-bottom: 2px solid #00d4ff;
+}
+.navbar a {
+    color: #00d4ff;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+.navbar a:hover {
+    background-color: #00d4ff;
+    color: #121212;
+    border-radius: 5px;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #1e1e1e;
+    margin-top: 20px;
+}
+th, td {
+    padding: 12px;
+    border: 1px solid #333;
+    text-align: left;
+    color: #ffffff;
+}
+th {
+    background-color: #00d4ff;
+    color: #121212;
+    font-weight: bold;
+}
+tr:nth-child(even) {
+    background-color: #252525;
+}
+
+/* Alerts */
+.alert {
+    padding: 15px;
+    background-color: #ff4d4d;
+    color: white;
+    margin: 10px 0;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Buttons */
+button {
+    padding: 12px 18px;
+    border: none;
+    cursor: pointer;
+    background-color: #00d4ff;
+    color: #121212;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+button:hover {
+    background-color: #00aacc;
+}
+
+/* System Overview Chart */
+#threatChart {
+    width: 100%;
+    max-height: 300px;
+    background-color: #1e1e1e;
+    border-radius: 5px;
+}
+
+/* Real-Time Alerts */
+#alerts-container {
+    background-color: #252525;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+}
+
+
+/* Navigation Buttons */
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav button {
+    background-color: #00d4ff;
+    color: #121212;
+    padding: 12px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: 0.3s;
+}
+
+nav button:hover {
+    background-color: #00aacc;
+}
+
+
+
+/* Navigation Buttons */
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav button {
+    background-color: #00d4ff;
+    color: #121212;
+    padding: 12px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: 0.3s;
+}
+
+nav button:hover {
+    background-color: #00aacc;
+}
+
+nav .active {
+    background-color: #ff4d4d;
+    color: white;
+}
+
+
+/* Navigation Buttons */
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav button {
+    background-color: #00d4ff;
+    color: #121212;
+    padding: 12px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: 0.3s;
+}
+
+nav button:hover {
+    background-color: #00aacc;
+}
+
+nav .active {
+    background-color: #ff4d4d;
+    color: white;
+}
+
+
+/* Smooth Page Load */
+body {
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.fade-in {
+    animation: fadeIn 1.2s ease-in-out;
+}
+
+/* Navbar Fade */
+.nav-fade {
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+/* Slide-in Animation */
+@keyframes slideIn {
+    from { transform: translateY(30px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+.slide-in {
+    animation: slideIn 1.2s ease-in-out;
+}
+
+/* Alerts Slide */
+@keyframes alertsSlide {
+    from { transform: translateX(-50px); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+.alerts-slide {
+    animation: alertsSlide 1s ease-in-out;
+}
+
+/* Navbar Buttons Hover Effect */
+nav button {
+    background-color: #00d4ff;
+    color: #121212;
+    padding: 12px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+nav button:hover {
+    background-color: #00aacc;
+    transform: scale(1.05);
+}

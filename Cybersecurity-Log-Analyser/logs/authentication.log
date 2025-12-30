@@ -1,0 +1,1627 @@
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+
+2025-04-06 19:37:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:38:00 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:38:04 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+
+2025-04-06 19:38:07 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Ransomware Detected 
+2025-04-06 19:38:09 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+
+2025-04-06 19:38:14 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:19 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:38:22 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+
+2025-04-06 19:38:25 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:38:30 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:38:34 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+
+2025-04-06 19:38:36 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-04-06 19:38:41 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-04-06 19:38:44 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+
+2025-04-06 19:38:46 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: DDoS Attack 
+2025-04-06 19:38:48 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Brute Force Attack 
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+
+2025-04-06 19:38:53 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-04-06 19:38:55 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:39:00 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+
+2025-04-06 19:39:05 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-04-06 19:39:09 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:39:14 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+
+2025-04-06 19:39:18 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-06 19:39:23 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+
+2025-04-06 19:39:25 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-06 19:39:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Ransomware Detected 
+2025-04-06 19:39:34 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-04-06 19:39:37 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+
+2025-04-06 19:39:39 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:39:44 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-04-06 19:39:48 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+
+2025-04-06 19:39:50 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-04-06 19:39:53 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+
+2025-04-06 19:39:57 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Suspicious File Upload 
+2025-04-06 19:40:01 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: SQL Injection 
+2025-04-06 19:40:06 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: SQL Injection 
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+
+2025-04-06 19:40:11 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: MFA Bypassed 
+2025-04-06 19:40:15 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+
+2025-04-06 19:40:18 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-06 19:40:22 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:40:24 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+
+2025-04-06 19:40:28 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-04-06 19:40:33 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-04-06 19:40:37 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-04-07 03:08:40 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Malware Execution 
+2025-04-07 03:08:45 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Insider Threat 
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+
+2025-04-06 19:40:41 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Suspicious Network Activity 
+2025-04-06 19:40:44 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-04-06 19:40:46 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Insider Threat 
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-04-07 03:08:40 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Malware Execution 
+2025-04-07 03:08:45 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Insider Threat 
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 03:08:51 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-04-07 03:08:55 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+
+2025-04-06 19:40:49 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-04-06 19:40:52 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-04-06 19:40:56 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-04-07 03:08:40 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Malware Execution 
+2025-04-07 03:08:45 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Insider Threat 
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 03:08:51 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-04-07 03:08:55 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+2025-04-07 03:09:01 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:04 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+
+2025-04-06 19:40:59 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: DDoS Attack 
+2025-04-06 19:41:01 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-06 19:41:06 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Unpatched Vulnerability 
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-04-07 03:08:40 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Malware Execution 
+2025-04-07 03:08:45 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Insider Threat 
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 03:08:51 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-04-07 03:08:55 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+2025-04-07 03:09:01 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:04 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+
+2025-04-06 19:41:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-06 19:41:14 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-06 19:41:18 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-04-07 03:08:40 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Malware Execution 
+2025-04-07 03:08:45 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Insider Threat 
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 03:08:51 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-04-07 03:08:55 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+2025-04-07 03:09:01 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:04 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:22 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+
+2025-04-06 19:41:21 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Exploit Attempt 
+2025-04-07 03:08:38 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-04-07 03:08:40 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Malware Execution 
+2025-04-07 03:08:45 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Insider Threat 
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 03:08:51 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-04-07 03:08:55 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+2025-04-07 03:09:01 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:04 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:22 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-04-07 03:09:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+
+2025-04-07 03:08:48 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 03:08:51 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-04-07 03:08:55 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+2025-04-07 03:09:01 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:04 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:22 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-04-07 03:09:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-07 03:09:42 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+
+2025-04-07 03:08:59 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Phishing Attempt 
+2025-04-07 03:09:01 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:04 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: SQL Injection 
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:22 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-04-07 03:09:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-07 03:09:42 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+
+2025-04-07 03:09:06 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:10 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:22 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-04-07 03:09:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-07 03:09:42 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+
+2025-04-07 03:09:19 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:22 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-04-07 03:09:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-07 03:09:42 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+
+2025-04-07 03:09:26 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:28 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-04-07 03:09:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: SQL Injection 
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-07 03:09:42 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+
+2025-04-07 03:09:34 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Ransomware Detected 
+2025-04-07 03:09:39 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Insider Threat 
+2025-04-07 03:09:42 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+
+2025-04-07 03:09:44 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: SQL Injection 
+2025-04-07 03:09:46 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+
+2025-04-07 03:09:50 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Unauthorized Access Attempt 
+2025-04-07 03:09:53 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-04-07 03:09:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-04-07 03:09:58 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-04-07 22:36:11 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+
+2025-04-07 03:10:01 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-04-07 03:10:04 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:07 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-04-07 22:36:11 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 22:36:20 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+
+2025-04-07 03:10:12 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-04-07 03:10:15 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-04-07 03:10:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Insider Threat 
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-04-07 22:36:11 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 22:36:20 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+
+2025-04-07 03:10:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-04-07 03:10:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Privilege Escalation 
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-04-07 22:36:11 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 22:36:20 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+
+2025-04-07 03:10:32 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 03:10:34 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-04-07 22:35:57 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: DDoS Attack 
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-04-07 22:36:11 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 22:36:20 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+
+2025-04-07 22:35:59 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:02 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:06 | AUTHENTICATION | User: user1 | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-04-07 22:36:11 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 22:36:20 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+
+2025-04-07 22:36:16 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Cross-Site Scripting (XSS) 
+2025-04-07 22:36:20 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+
+2025-04-07 22:36:23 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-04-07 22:36:25 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-04-07 22:36:27 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Brute Force Attack 
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+
+2025-04-07 22:36:32 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-04-07 22:36:34 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+
+2025-04-07 22:36:37 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Compromised IoT Device 
+2025-04-07 22:36:39 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-04-07 22:36:42 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: SQL Injection 
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:12:24 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+
+2025-12-30 19:11:30 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:11:34 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:37 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Exploit Attempt 
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:12:24 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:12:31 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:12:34 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious Network Activity 
+2025-12-30 19:12:38 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+
+2025-12-30 19:11:41 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:11:45 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Phishing Attempt 
+2025-12-30 19:11:48 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:12:24 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:12:31 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:12:34 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious Network Activity 
+2025-12-30 19:12:38 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:12:43 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:46 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-12-30 19:12:49 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Data Exfiltration 
+
+2025-12-30 19:11:52 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:11:54 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:11:57 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:12:24 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:12:31 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:12:34 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious Network Activity 
+2025-12-30 19:12:38 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:12:43 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:46 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-12-30 19:12:49 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:12:51 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:12:56 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Exploit Attempt 
+2025-12-30 19:12:59 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: MFA Bypassed 
+
+2025-12-30 19:12:00 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:12:05 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:08 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:12:24 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:12:31 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:12:34 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious Network Activity 
+2025-12-30 19:12:38 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:12:43 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:46 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-12-30 19:12:49 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:12:51 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:12:56 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Exploit Attempt 
+2025-12-30 19:12:59 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-12-30 19:13:03 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:13:07 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-12-30 19:13:10 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+
+2025-12-30 19:12:13 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:12:15 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Anomalous Login Location 
+2025-12-30 19:12:20 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:12:24 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Insider Threat 
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:12:31 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:12:34 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious Network Activity 
+2025-12-30 19:12:38 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:12:43 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:46 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-12-30 19:12:49 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:12:51 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:12:56 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Exploit Attempt 
+2025-12-30 19:12:59 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-12-30 19:13:03 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:13:07 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-12-30 19:13:10 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:13:13 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:13:15 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:13:17 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Suspicious File Upload 
+
+2025-12-30 19:12:29 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:12:31 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:12:34 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Suspicious Network Activity 
+2025-12-30 19:12:38 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:12:43 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:46 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-12-30 19:12:49 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:12:51 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:12:56 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Exploit Attempt 
+2025-12-30 19:12:59 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-12-30 19:13:03 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:13:07 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-12-30 19:13:10 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:13:13 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:13:15 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:13:17 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-12-30 19:13:21 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:13:24 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:13:26 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+2025-12-30 19:13:29 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Malware Execution 
+
+2025-12-30 19:12:43 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:12:46 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Zero-Day Exploit 
+2025-12-30 19:12:49 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:12:51 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:12:56 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Exploit Attempt 
+2025-12-30 19:12:59 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-12-30 19:13:03 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:13:07 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-12-30 19:13:10 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:13:13 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:13:15 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:13:17 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-12-30 19:13:21 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:13:24 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:13:26 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+2025-12-30 19:13:29 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Malware Execution 
+2025-12-30 19:13:31 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:13:34 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-12-30 19:13:37 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Zero-Day Exploit 
+2025-12-30 19:13:40 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Malware Execution 
+
+2025-12-30 19:12:51 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Privilege Escalation 
+2025-12-30 19:12:56 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Exploit Attempt 
+2025-12-30 19:12:59 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: MFA Bypassed 
+2025-12-30 19:13:03 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:13:07 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-12-30 19:13:10 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:13:13 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:13:15 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:13:17 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-12-30 19:13:21 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:13:24 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:13:26 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+2025-12-30 19:13:29 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Malware Execution 
+2025-12-30 19:13:31 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:13:34 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-12-30 19:13:37 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Zero-Day Exploit 
+2025-12-30 19:13:40 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:13:42 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:13:46 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:48 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+
+2025-12-30 19:13:03 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: MFA Bypassed 
+2025-12-30 19:13:07 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Unauthorized Access Attempt 
+2025-12-30 19:13:10 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:13:13 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Ransomware Detected 
+2025-12-30 19:13:15 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:13:17 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-12-30 19:13:21 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:13:24 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:13:26 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+2025-12-30 19:13:29 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Malware Execution 
+2025-12-30 19:13:31 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:13:34 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-12-30 19:13:37 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Zero-Day Exploit 
+2025-12-30 19:13:40 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:13:42 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:13:46 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:48 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:13:52 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-12-30 19:13:54 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+
+2025-12-30 19:13:15 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:13:17 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Suspicious File Upload 
+2025-12-30 19:13:21 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:13:24 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:13:26 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+2025-12-30 19:13:29 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Malware Execution 
+2025-12-30 19:13:31 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:13:34 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-12-30 19:13:37 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Zero-Day Exploit 
+2025-12-30 19:13:40 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:13:42 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:13:46 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:48 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:13:52 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-12-30 19:13:54 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:14:01 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+
+2025-12-30 19:13:26 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+2025-12-30 19:13:29 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Malware Execution 
+2025-12-30 19:13:31 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:13:34 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-12-30 19:13:37 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Zero-Day Exploit 
+2025-12-30 19:13:40 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:13:42 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:13:46 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:48 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:13:52 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-12-30 19:13:54 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:14:01 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+
+2025-12-30 19:13:34 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Ransomware Detected 
+2025-12-30 19:13:37 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Zero-Day Exploit 
+2025-12-30 19:13:40 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:13:42 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:13:46 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:48 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:13:52 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-12-30 19:13:54 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:14:01 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+
+2025-12-30 19:13:42 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:13:46 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:48 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:13:52 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-12-30 19:13:54 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:14:01 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+
+2025-12-30 19:13:52 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Data Exfiltration 
+2025-12-30 19:13:54 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Insider Threat 
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:14:01 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+
+2025-12-30 19:13:58 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:14:01 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+
+2025-12-30 19:14:05 | AUTHENTICATION | User: user1 | IP: 185.199.108.153 | Method: Phishing Attempt 
+2025-12-30 19:14:07 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+
+2025-12-30 19:14:15 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Suspicious Network Activity 
+2025-12-30 19:14:18 | AUTHENTICATION | User: root | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:14:20 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+
+2025-12-30 19:14:23 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:25 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: Anomalous Login Location 
+2025-12-30 19:14:30 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:14:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-12-30 19:15:23 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+
+2025-12-30 19:14:36 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: DDoS Attack 
+2025-12-30 19:14:40 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:14:44 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Privilege Escalation 
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-12-30 19:15:23 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:33 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+
+2025-12-30 19:14:46 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:14:49 | AUTHENTICATION | User: devops | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:14:52 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-12-30 19:15:23 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:33 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:43 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+
+2025-12-30 19:14:55 | AUTHENTICATION | User: root | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:14:58 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Brute Force Attack 
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-12-30 19:15:23 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:33 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:43 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+
+2025-12-30 19:15:01 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Privilege Escalation 
+2025-12-30 19:15:06 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:09 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Data Exfiltration 
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-12-30 19:15:23 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:33 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:43 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+
+2025-12-30 19:15:14 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Exploit Attempt 
+2025-12-30 19:15:19 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Exploit Attempt 
+2025-12-30 19:15:23 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:33 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:43 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+
+2025-12-30 19:15:28 | AUTHENTICATION | User: guest | IP: 8.8.4.4 | Method: SQL Injection 
+2025-12-30 19:15:30 | AUTHENTICATION | User: guest | IP: 10.0.0.3 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:15:33 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Anomalous Login Location 
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:43 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+
+2025-12-30 19:15:35 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Command and Control (C2) Communication 
+2025-12-30 19:15:41 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:43 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+
+2025-12-30 19:15:48 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Unauthorized Access Attempt 
+2025-12-30 19:15:50 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+
+2025-12-30 19:15:52 | AUTHENTICATION | User: user1 | IP: 10.0.0.3 | Method: Unpatched Vulnerability 
+2025-12-30 19:15:56 | AUTHENTICATION | User: support | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:16:30 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Suspicious Network Activity 
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+
+2025-12-30 19:16:34 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Data Exfiltration 
+2025-12-30 19:16:59 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+
+2025-12-30 19:17:03 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:06 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: SQL Injection 
+2025-12-30 19:17:08 | AUTHENTICATION | User: root | IP: 45.33.29.100 | Method: MFA Bypassed 
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+
+2025-12-30 19:17:12 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: Insider Threat 
+2025-12-30 19:17:17 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:18:10 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+
+2025-12-30 19:17:19 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Malware Execution 
+2025-12-30 19:17:21 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Unpatched Vulnerability 
+2025-12-30 19:17:24 | AUTHENTICATION | User: user1 | IP: 203.0.113.10 | Method: Data Exfiltration 
+2025-12-30 19:17:29 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:18:10 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:21 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:18:25 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+
+2025-12-30 19:17:32 | AUTHENTICATION | User: user1 | IP: 192.168.1.5 | Method: Compromised IoT Device 
+2025-12-30 19:17:34 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Privilege Escalation 
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:18:10 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:21 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:18:25 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-12-30 19:18:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-12-30 19:18:33 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:18:35 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:18:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Suspicious File Upload 
+
+2025-12-30 19:17:36 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:17:39 | AUTHENTICATION | User: admin | IP: 192.168.1.5 | Method: Ransomware Detected 
+2025-12-30 19:17:44 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Data Exfiltration 
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:18:10 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:21 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:18:25 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-12-30 19:18:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-12-30 19:18:33 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:18:35 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:18:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-12-30 19:18:41 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Compromised IoT Device 
+2025-12-30 19:18:46 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Suspicious File Upload 
+
+2025-12-30 19:17:48 | AUTHENTICATION | User: guest | IP: 185.199.108.153 | Method: Insider Threat 
+2025-12-30 19:17:53 | AUTHENTICATION | User: support | IP: 185.199.108.153 | Method: Suspicious Network Activity 
+2025-12-30 19:17:55 | AUTHENTICATION | User: support | IP: 45.33.29.100 | Method: DDoS Attack 
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:18:10 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:21 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:18:25 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-12-30 19:18:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-12-30 19:18:33 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:18:35 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:18:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-12-30 19:18:41 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Compromised IoT Device 
+2025-12-30 19:18:46 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:18:51 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:18:53 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:18:56 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Command and Control (C2) Communication 
+
+2025-12-30 19:17:58 | AUTHENTICATION | User: guest | IP: 203.0.113.10 | Method: Brute Force Attack 
+2025-12-30 19:18:03 | AUTHENTICATION | User: admin | IP: 8.8.4.4 | Method: Compromised IoT Device 
+2025-12-30 19:18:05 | AUTHENTICATION | User: root | IP: 10.0.0.3 | Method: Zero-Day Exploit 
+2025-12-30 19:18:10 | AUTHENTICATION | User: devops | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:21 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:18:25 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-12-30 19:18:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-12-30 19:18:33 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:18:35 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:18:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-12-30 19:18:41 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Compromised IoT Device 
+2025-12-30 19:18:46 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:18:51 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:18:53 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:18:56 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Command and Control (C2) Communication 
+2025-12-30 19:19:00 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:19:03 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Command and Control (C2) Communication 
+2025-12-30 19:19:08 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+
+2025-12-30 19:18:14 | AUTHENTICATION | User: admin | IP: 185.199.108.153 | Method: Compromised IoT Device 
+2025-12-30 19:18:16 | AUTHENTICATION | User: guest | IP: 45.33.29.100 | Method: Unauthorized Access Attempt 
+2025-12-30 19:18:21 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Malware Execution 
+2025-12-30 19:18:25 | AUTHENTICATION | User: support | IP: 192.168.1.5 | Method: Brute Force Attack 
+2025-12-30 19:18:30 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Suspicious File Upload 
+2025-12-30 19:18:33 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: MFA Bypassed 
+2025-12-30 19:18:35 | AUTHENTICATION | User: devops | IP: 203.0.113.10 | Method: Phishing Attempt 
+2025-12-30 19:18:39 | AUTHENTICATION | User: admin | IP: 45.33.29.100 | Method: Suspicious File Upload 
+2025-12-30 19:18:41 | AUTHENTICATION | User: devops | IP: 45.33.29.100 | Method: Compromised IoT Device 
+2025-12-30 19:18:46 | AUTHENTICATION | User: guest | IP: 192.168.1.5 | Method: Suspicious File Upload 
+2025-12-30 19:18:51 | AUTHENTICATION | User: admin | IP: 10.0.0.3 | Method: Phishing Attempt 
+2025-12-30 19:18:53 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Suspicious Network Activity 
+2025-12-30 19:18:56 | AUTHENTICATION | User: root | IP: 203.0.113.10 | Method: Command and Control (C2) Communication 
+2025-12-30 19:19:00 | AUTHENTICATION | User: user1 | IP: 8.8.4.4 | Method: Brute Force Attack 
+2025-12-30 19:19:03 | AUTHENTICATION | User: devops | IP: 192.168.1.5 | Method: Command and Control (C2) Communication 
+2025-12-30 19:19:08 | AUTHENTICATION | User: devops | IP: 8.8.4.4 | Method: Cross-Site Scripting (XSS) 
+2025-12-30 19:19:10 | AUTHENTICATION | User: admin | IP: 203.0.113.10 | Method: Compromised IoT Device 
+2025-12-30 19:19:13 | AUTHENTICATION | User: support | IP: 8.8.4.4 | Method: Phishing Attempt 
+2025-12-30 19:19:15 | AUTHENTICATION | User: root | IP: 185.199.108.153 | Method: Unauthorized Access Attempt 
+2025-12-30 19:19:19 | AUTHENTICATION | User: support | IP: 10.0.0.3 | Method: Command and Control (C2) Communication 
+

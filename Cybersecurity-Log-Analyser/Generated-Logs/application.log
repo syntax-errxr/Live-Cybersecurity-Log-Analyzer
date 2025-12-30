@@ -1,0 +1,219 @@
+2025-04-06 19:37:58 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: SQL Injection attempt detected
+2025-04-06 19:38:01 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: User logged out
+2025-04-06 19:38:05 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: New user registered
+2025-04-06 19:38:08 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Two-factor authentication enabled
+2025-04-06 19:38:13 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: App crashed due to memory leak
+2025-04-06 19:38:18 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Unauthorized API access attempt
+2025-04-06 19:38:23 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: New user registered
+2025-04-06 19:38:27 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: App crashed due to memory leak
+2025-04-06 19:38:31 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: Password changed
+2025-04-06 19:38:35 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Password changed
+2025-04-06 19:38:40 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: User logged out
+2025-04-06 19:38:43 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Session timeout
+2025-04-06 19:38:46 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: Data export initiated
+2025-04-06 19:38:48 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Data export initiated
+2025-04-06 19:38:53 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-04-06 19:38:58 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Database entry updated
+2025-04-06 19:39:00 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: User logged in
+2025-04-06 19:39:02 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Application restarted
+2025-04-06 19:39:07 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: User logged out
+2025-04-06 19:39:10 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Database connection failed
+2025-04-06 19:39:15 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-04-06 19:39:19 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: App crashed due to memory leak
+2025-04-06 19:39:21 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Unauthorized API access attempt
+2025-04-06 19:39:25 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: App crashed due to memory leak
+2025-04-06 19:39:30 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: User logged in
+2025-04-06 19:39:34 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Data export initiated
+2025-04-06 19:39:38 | APPLICATION | USER: admin | IP: 192.168.1.25 | EVENT: User logged out
+2025-04-06 19:39:43 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: New user registered
+2025-04-06 19:39:45 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-04-06 19:39:49 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Data export initiated
+2025-04-06 19:39:51 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: New user registered
+2025-04-06 19:39:56 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: New user registered
+2025-04-06 19:39:59 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: Session timeout
+2025-04-06 19:40:01 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Application restarted
+2025-04-06 19:40:04 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: New user registered
+2025-04-06 19:40:07 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Password changed
+2025-04-06 19:40:10 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Unauthorized API access attempt
+2025-04-06 19:40:12 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: Database connection failed
+2025-04-06 19:40:17 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-06 19:40:21 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-04-06 19:40:25 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Database connection failed
+2025-04-06 19:40:29 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: Two-factor authentication enabled
+2025-04-06 19:40:34 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Password changed
+2025-04-06 19:40:38 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Server overload detected
+2025-04-06 19:40:41 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: Unauthorized API access attempt
+2025-04-06 19:40:43 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Database entry updated
+2025-04-06 19:40:45 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Database entry updated
+2025-04-06 19:40:48 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Data export initiated
+2025-04-06 19:40:52 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: New user registered
+2025-04-06 19:40:56 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Database connection failed
+2025-04-06 19:41:01 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: SQL Injection attempt detected
+2025-04-06 19:41:04 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: New user registered
+2025-04-06 19:41:09 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: User logged out
+2025-04-06 19:41:14 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: New user registered
+2025-04-06 19:41:17 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Password changed
+2025-04-06 19:41:21 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: User logged out
+2025-04-07 03:08:39 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Server overload detected
+2025-04-07 03:08:42 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: User logged in
+2025-04-07 03:08:47 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Two-factor authentication enabled
+2025-04-07 03:08:49 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: User logged in
+2025-04-07 03:08:53 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-07 03:08:57 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: User logged out
+2025-04-07 03:08:59 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Data export initiated
+2025-04-07 03:09:04 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-04-07 03:09:07 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Application restarted
+2025-04-07 03:09:12 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: SQL Injection attempt detected
+2025-04-07 03:09:17 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: App crashed due to memory leak
+2025-04-07 03:09:20 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-07 03:09:23 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: App crashed due to memory leak
+2025-04-07 03:09:27 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: SQL Injection attempt detected
+2025-04-07 03:09:31 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Database entry updated
+2025-04-07 03:09:35 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: Database entry updated
+2025-04-07 03:09:37 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Database entry updated
+2025-04-07 03:09:41 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: SQL Injection attempt detected
+2025-04-07 03:09:43 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Data export initiated
+2025-04-07 03:09:47 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-07 03:09:52 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Two-factor authentication enabled
+2025-04-07 03:09:57 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: User logged in
+2025-04-07 03:10:02 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Application restarted
+2025-04-07 03:10:05 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-04-07 03:10:07 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-07 03:10:10 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: SQL Injection attempt detected
+2025-04-07 03:10:12 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: Unauthorized API access attempt
+2025-04-07 03:10:17 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Unauthorized API access attempt
+2025-04-07 03:10:22 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: Password changed
+2025-04-07 03:10:24 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: App crashed due to memory leak
+2025-04-07 03:10:29 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: User logged in
+2025-04-07 03:10:34 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: New user registered
+2025-04-07 22:35:58 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: Password changed
+2025-04-07 22:36:00 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: Application restarted
+2025-04-07 22:36:02 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Two-factor authentication enabled
+2025-04-07 22:36:07 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: New user registered
+2025-04-07 22:36:09 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: User logged out
+2025-04-07 22:36:14 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: User logged in
+2025-04-07 22:36:18 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Invalid password attempt
+2025-04-07 22:36:22 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-07 22:36:25 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Application restarted
+2025-04-07 22:36:27 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: App crashed due to memory leak
+2025-04-07 22:36:32 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: User logged out
+2025-04-07 22:36:35 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Application restarted
+2025-04-07 22:36:38 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-04-07 22:36:40 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Database entry updated
+2025-04-07 22:36:42 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Session timeout
+2025-12-30 19:11:30 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Database entry updated
+2025-12-30 19:11:33 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Data export initiated
+2025-12-30 19:11:35 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Database entry updated
+2025-12-30 19:11:39 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: New user registered
+2025-12-30 19:11:44 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-12-30 19:11:48 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:11:53 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Invalid password attempt
+2025-12-30 19:11:57 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Unauthorized API access attempt
+2025-12-30 19:11:59 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Database entry updated
+2025-12-30 19:12:02 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-12-30 19:12:07 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: SQL Injection attempt detected
+2025-12-30 19:12:12 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: Two-factor authentication enabled
+2025-12-30 19:12:16 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: App crashed due to memory leak
+2025-12-30 19:12:19 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Invalid password attempt
+2025-12-30 19:12:24 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: Data export initiated
+2025-12-30 19:12:29 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Database entry updated
+2025-12-30 19:12:34 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: User logged out
+2025-12-30 19:12:37 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:12:42 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Invalid password attempt
+2025-12-30 19:12:45 | APPLICATION | USER: admin | IP: 192.168.1.25 | EVENT: User logged in
+2025-12-30 19:12:50 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: User logged in
+2025-12-30 19:12:54 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: Database connection failed
+2025-12-30 19:12:56 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-12-30 19:12:59 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Invalid password attempt
+2025-12-30 19:13:04 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: New user registered
+2025-12-30 19:13:08 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Session timeout
+2025-12-30 19:13:10 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: Data export initiated
+2025-12-30 19:13:12 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Database connection failed
+2025-12-30 19:13:14 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: Password changed
+2025-12-30 19:13:17 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Password changed
+2025-12-30 19:13:19 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-12-30 19:13:23 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: User logged out
+2025-12-30 19:13:25 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:13:28 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Database entry updated
+2025-12-30 19:13:32 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Session timeout
+2025-12-30 19:13:36 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: New user registered
+2025-12-30 19:13:40 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: Data export initiated
+2025-12-30 19:13:45 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Two-factor authentication enabled
+2025-12-30 19:13:47 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Data export initiated
+2025-12-30 19:13:52 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:13:56 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: Server overload detected
+2025-12-30 19:13:59 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:14:02 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: Data export initiated
+2025-12-30 19:14:04 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Server overload detected
+2025-12-30 19:14:16 | APPLICATION | USER: user1 | IP: 172.16.0.100 | EVENT: Database entry updated
+2025-12-30 19:14:21 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Application restarted
+2025-12-30 19:14:25 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Unauthorized API access attempt
+2025-12-30 19:14:27 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: User logged out
+2025-12-30 19:14:30 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: App crashed due to memory leak
+2025-12-30 19:14:32 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Database connection failed
+2025-12-30 19:14:34 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Invalid password attempt
+2025-12-30 19:14:39 | APPLICATION | USER: user2 | IP: 192.168.1.10 | EVENT: SQL Injection attempt detected
+2025-12-30 19:14:43 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: User logged in
+2025-12-30 19:14:48 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Database entry updated
+2025-12-30 19:14:52 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: User logged in
+2025-12-30 19:14:56 | APPLICATION | USER: admin | IP: 192.168.1.25 | EVENT: User logged in
+2025-12-30 19:15:02 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: New user registered
+2025-12-30 19:15:05 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Invalid password attempt
+2025-12-30 19:15:10 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Session timeout
+2025-12-30 19:15:12 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Session timeout
+2025-12-30 19:15:17 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: SQL Injection attempt detected
+2025-12-30 19:15:20 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Unauthorized API access attempt
+2025-12-30 19:15:24 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: New user registered
+2025-12-30 19:15:29 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: User logged out
+2025-12-30 19:15:33 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: Application restarted
+2025-12-30 19:15:38 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Two-factor authentication enabled
+2025-12-30 19:15:43 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: User logged in
+2025-12-30 19:15:47 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:15:51 | APPLICATION | USER: admin | IP: 192.168.1.25 | EVENT: Invalid password attempt
+2025-12-30 19:15:53 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: SQL Injection attempt detected
+2025-12-30 19:15:55 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: Data export initiated
+2025-12-30 19:15:58 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: Invalid password attempt
+2025-12-30 19:16:30 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-12-30 19:16:35 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Data export initiated
+2025-12-30 19:16:59 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: SQL Injection attempt detected
+2025-12-30 19:17:01 | APPLICATION | USER: guest | IP: 192.168.1.10 | EVENT: Data export initiated
+2025-12-30 19:17:04 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: Database connection failed
+2025-12-30 19:17:09 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Two-factor authentication enabled
+2025-12-30 19:17:12 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: Database entry updated
+2025-12-30 19:17:17 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: App crashed due to memory leak
+2025-12-30 19:17:22 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Session timeout
+2025-12-30 19:17:26 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-12-30 19:17:31 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Unauthorized API access attempt
+2025-12-30 19:17:36 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Database entry updated
+2025-12-30 19:17:38 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-12-30 19:17:42 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: User logged out
+2025-12-30 19:17:44 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Database connection failed
+2025-12-30 19:17:46 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Unauthorized API access attempt
+2025-12-30 19:17:51 | APPLICATION | USER: user2 | IP: 10.0.0.5 | EVENT: Invalid password attempt
+2025-12-30 19:17:54 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: Data export initiated
+2025-12-30 19:17:56 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Two-factor authentication enabled
+2025-12-30 19:18:01 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: User logged out
+2025-12-30 19:18:05 | APPLICATION | USER: user2 | IP: 172.16.0.100 | EVENT: Data export initiated
+2025-12-30 19:18:10 | APPLICATION | USER: admin | IP: 172.16.0.100 | EVENT: New user registered
+2025-12-30 19:18:12 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-12-30 19:18:15 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Application restarted
+2025-12-30 19:18:18 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: New user registered
+2025-12-30 19:18:22 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: App crashed due to memory leak
+2025-12-30 19:18:24 | APPLICATION | USER: user1 | IP: 192.168.1.25 | EVENT: Server overload detected
+2025-12-30 19:18:29 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: Unauthorized API access attempt
+2025-12-30 19:18:33 | APPLICATION | USER: admin | IP: 203.0.113.45 | EVENT: Database connection failed
+2025-12-30 19:18:35 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Server overload detected
+2025-12-30 19:18:38 | APPLICATION | USER: user1 | IP: 10.0.0.5 | EVENT: App crashed due to memory leak
+2025-12-30 19:18:43 | APPLICATION | USER: guest | IP: 192.168.1.25 | EVENT: Password changed
+2025-12-30 19:18:45 | APPLICATION | USER: guest | IP: 172.16.0.100 | EVENT: New user registered
+2025-12-30 19:18:47 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: Password changed
+2025-12-30 19:18:49 | APPLICATION | USER: guest | IP: 203.0.113.45 | EVENT: Unauthorized API access attempt
+2025-12-30 19:18:54 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: User logged in
+2025-12-30 19:18:58 | APPLICATION | USER: admin | IP: 10.0.0.5 | EVENT: User logged out
+2025-12-30 19:19:01 | APPLICATION | USER: user1 | IP: 192.168.1.10 | EVENT: Session timeout
+2025-12-30 19:19:03 | APPLICATION | USER: admin | IP: 192.168.1.10 | EVENT: Two-factor authentication enabled
+2025-12-30 19:19:08 | APPLICATION | USER: user1 | IP: 203.0.113.45 | EVENT: Unauthorized API access attempt
+2025-12-30 19:19:11 | APPLICATION | USER: guest | IP: 10.0.0.5 | EVENT: Two-factor authentication enabled
+2025-12-30 19:19:14 | APPLICATION | USER: user2 | IP: 203.0.113.45 | EVENT: Password changed
+2025-12-30 19:19:16 | APPLICATION | USER: admin | IP: 192.168.1.25 | EVENT: Password changed
+2025-12-30 19:19:21 | APPLICATION | USER: user2 | IP: 192.168.1.25 | EVENT: Database connection failed

@@ -1,0 +1,1630 @@
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+
+2025-04-06 19:37:58 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+
+2025-04-06 19:38:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:04 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:38:08 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+
+2025-04-06 19:38:11 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:38:13 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:38:18 | NETWORK | MEMORY | Memory usage crossed 94%
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+
+2025-04-06 19:38:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:38:24 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-04-06 19:38:29 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:31 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:38:33 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-04-06 19:38:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:38:40 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-04-06 19:38:43 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:38:46 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:38:50 | NETWORK | CPU | High CPU usage detected on core 5
+2025-04-06 19:38:53 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-04-06 19:38:57 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:02 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:07 | NETWORK | CPU | CPU usage exceeded 91%
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+
+2025-04-06 19:39:11 | NETWORK | CPU | CPU usage exceeded 90%
+2025-04-06 19:39:13 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:16 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+
+2025-04-06 19:39:21 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:39:23 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+
+2025-04-06 19:39:28 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:39:30 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:39:34 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-04-06 19:39:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:39:44 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:39:47 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-04-06 19:39:52 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-06 19:39:55 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-04-06 19:40:00 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-06 19:40:02 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-06 19:40:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+
+2025-04-06 19:40:08 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-06 19:40:10 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+
+2025-04-06 19:40:13 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-06 19:40:17 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-04-06 19:40:19 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:41:20 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-04-06 19:40:22 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:25 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-06 19:40:30 | NETWORK | CPU | CPU usage exceeded 98%
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:41:20 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:42 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:08:44 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-04-06 19:40:34 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-06 19:40:39 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:41:20 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:42 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:08:44 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:08:53 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:55 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-04-06 19:40:44 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:40:46 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-06 19:40:51 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-06 19:40:55 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:41:20 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:42 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:08:44 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:08:53 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:55 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:09:05 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+
+2025-04-06 19:40:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-06 19:41:02 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-06 19:41:07 | NETWORK | CPU | CPU usage exceeded 96%
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:41:20 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:42 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:08:44 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:08:53 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:55 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:09:05 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:09:11 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 03:09:13 | NETWORK | CPU | High CPU usage detected on core 3
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-04-06 19:41:10 | NETWORK | CPU | CPU usage exceeded 100%
+2025-04-06 19:41:13 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-06 19:41:17 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-06 19:41:20 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:42 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:08:44 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:08:53 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:55 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:09:05 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:09:11 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 03:09:13 | NETWORK | CPU | High CPU usage detected on core 3
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+
+2025-04-07 03:08:39 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:08:42 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:08:44 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:08:53 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:55 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:09:05 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:09:11 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 03:09:13 | NETWORK | CPU | High CPU usage detected on core 3
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+
+2025-04-07 03:08:48 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:08:53 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 03:08:55 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:09:05 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:09:11 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 03:09:13 | NETWORK | CPU | High CPU usage detected on core 3
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+
+2025-04-07 03:09:00 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 03:09:05 | NETWORK | CPU | High CPU usage detected on core 7
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:09:11 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 03:09:13 | NETWORK | CPU | High CPU usage detected on core 3
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+
+2025-04-07 03:09:09 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:09:11 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 03:09:13 | NETWORK | CPU | High CPU usage detected on core 3
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+
+2025-04-07 03:09:18 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:20 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+
+2025-04-07 03:09:22 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-04-07 03:09:24 | NETWORK | MEMORY | Memory usage crossed 97%
+2025-04-07 03:09:26 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+
+2025-04-07 03:09:31 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-04-07 03:09:33 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+
+2025-04-07 03:09:35 | NETWORK | CPU | High CPU usage detected on core 1
+2025-04-07 03:09:37 | NETWORK | CPU | High CPU usage detected on core 0
+2025-04-07 03:09:42 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-04-07 03:09:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:48 | NETWORK | CPU | CPU usage exceeded 94%
+2025-04-07 03:09:52 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 03:09:55 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 22:36:10 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-04-07 03:09:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 03:10:04 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 03:10:07 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 22:36:10 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:19 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 22:36:21 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 22:36:23 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+
+2025-04-07 03:10:11 | NETWORK | CPU | High CPU usage detected on core 4
+2025-04-07 03:10:15 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 03:10:18 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 22:36:10 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:19 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 22:36:21 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 22:36:23 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:31 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:36:33 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-04-07 22:36:35 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-04-07 03:10:23 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-04-07 03:10:28 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 22:36:10 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:19 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 22:36:21 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 22:36:23 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:31 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:36:33 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-04-07 22:36:35 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 22:36:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:42 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+
+2025-04-07 03:10:32 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 03:10:34 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:35:57 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 22:36:10 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:19 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 22:36:21 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 22:36:23 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:31 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:36:33 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-04-07 22:36:35 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 22:36:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:42 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+2025-12-30 19:11:35 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+
+2025-04-07 22:36:02 | NETWORK | MEMORY | Memory usage crossed 95%
+2025-04-07 22:36:05 | NETWORK | MEMORY | Swap memory exhausted
+2025-04-07 22:36:10 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:19 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 22:36:21 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 22:36:23 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:31 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:36:33 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-04-07 22:36:35 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 22:36:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:42 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+2025-12-30 19:11:35 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:41 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:11:43 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:11:48 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-04-07 22:36:16 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-04-07 22:36:19 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-04-07 22:36:21 | NETWORK | DISK | Disk read error on /dev/sda
+2025-04-07 22:36:23 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:31 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:36:33 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-04-07 22:36:35 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 22:36:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:42 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+2025-12-30 19:11:35 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:41 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:11:43 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:11:48 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:11:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:54 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:56 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:58 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-04-07 22:36:26 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:31 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-04-07 22:36:33 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-04-07 22:36:35 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-04-07 22:36:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:42 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+2025-12-30 19:11:35 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:41 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:11:43 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:11:48 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:11:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:54 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:56 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:58 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:12:02 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:12:04 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-12-30 19:12:06 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:12:09 | NETWORK | KERNEL | Kernel panic detected - System halted
+
+2025-04-07 22:36:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-04-07 22:36:42 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+2025-12-30 19:11:35 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:41 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:11:43 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:11:48 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:11:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:54 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:56 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:58 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:12:02 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:12:04 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-12-30 19:12:06 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:12:09 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:12:11 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:12:13 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-12-30 19:11:30 | NETWORK | CPU | High CPU usage detected on core 6
+2025-12-30 19:11:35 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:39 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:41 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:11:43 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:11:48 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:11:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:54 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:56 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:58 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:12:02 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:12:04 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-12-30 19:12:06 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:12:09 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:12:11 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:12:13 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:23 | NETWORK | CPU | High CPU usage detected on core 4
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+
+2025-12-30 19:11:41 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:11:43 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:11:48 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:11:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:54 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:56 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:58 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:12:02 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:12:04 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-12-30 19:12:06 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:12:09 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:12:11 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:12:13 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:23 | NETWORK | CPU | High CPU usage detected on core 4
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:12:33 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:38 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-12-30 19:11:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:54 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:11:56 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:11:58 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:12:02 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:12:04 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-12-30 19:12:06 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:12:09 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:12:11 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:12:13 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:23 | NETWORK | CPU | High CPU usage detected on core 4
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:12:33 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:38 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:41 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:46 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+
+2025-12-30 19:12:02 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:12:04 | NETWORK | MEMORY | Memory usage crossed 96%
+2025-12-30 19:12:06 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:12:09 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:12:11 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:12:13 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:23 | NETWORK | CPU | High CPU usage detected on core 4
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:12:33 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:38 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:41 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:46 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-12-30 19:12:53 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:55 | NETWORK | CPU | CPU usage exceeded 100%
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-12-30 19:12:11 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:12:13 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:23 | NETWORK | CPU | High CPU usage detected on core 4
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:12:33 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:38 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:41 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:46 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-12-30 19:12:53 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:55 | NETWORK | CPU | CPU usage exceeded 100%
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+
+2025-12-30 19:12:15 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:20 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:23 | NETWORK | CPU | High CPU usage detected on core 4
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:12:33 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:38 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:41 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:46 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-12-30 19:12:53 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:55 | NETWORK | CPU | CPU usage exceeded 100%
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-12-30 19:12:28 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:12:33 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:36 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:38 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:41 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:46 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-12-30 19:12:53 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:55 | NETWORK | CPU | CPU usage exceeded 100%
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+
+2025-12-30 19:12:41 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:12:46 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-12-30 19:12:53 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:55 | NETWORK | CPU | CPU usage exceeded 100%
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+
+2025-12-30 19:12:49 | NETWORK | MEMORY | Memory usage crossed 98%
+2025-12-30 19:12:53 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:12:55 | NETWORK | CPU | CPU usage exceeded 100%
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+
+2025-12-30 19:12:57 | NETWORK | CPU | CPU usage exceeded 99%
+2025-12-30 19:13:00 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:02 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-12-30 19:13:06 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:13:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+
+2025-12-30 19:13:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:15 | NETWORK | CPU | High CPU usage detected on core 1
+2025-12-30 19:13:19 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+
+2025-12-30 19:13:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:26 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+
+2025-12-30 19:13:28 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:31 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:33 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+
+2025-12-30 19:13:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+
+2025-12-30 19:13:40 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:13:44 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:13:49 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+
+2025-12-30 19:13:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:13:56 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:13:58 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+
+2025-12-30 19:14:03 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:14:05 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+
+2025-12-30 19:14:16 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:18 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+
+2025-12-30 19:14:22 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:14:27 | NETWORK | MEMORY | Memory usage crossed 93%
+2025-12-30 19:14:32 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+
+2025-12-30 19:14:36 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:14:41 | NETWORK | CPU | CPU usage exceeded 93%
+2025-12-30 19:14:43 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:14:48 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:15:42 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+
+2025-12-30 19:14:51 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:14:55 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:15:42 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:52 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:54 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+
+2025-12-30 19:15:01 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:15:03 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:15:42 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:52 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:54 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:16:33 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+
+2025-12-30 19:15:07 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:15:09 | NETWORK | DISK | Filesystem corruption detected on /dev/sdb
+2025-12-30 19:15:12 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:17 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:15:42 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:52 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:54 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:16:33 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:17:01 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:17:06 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-12-30 19:15:21 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:25 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:15:30 | NETWORK | CPU | High CPU usage detected on core 0
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:15:42 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:52 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:54 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:16:33 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:17:01 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:17:06 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:10 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:17:12 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:14 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:19 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+
+2025-12-30 19:15:33 | NETWORK | KERNEL | Unrecoverable hardware error encountered
+2025-12-30 19:15:38 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:15:42 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:52 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:54 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:16:33 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:17:01 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:17:06 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:10 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:17:12 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:14 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:19 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:17:25 | NETWORK | CPU | CPU usage exceeded 98%
+2025-12-30 19:17:27 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+
+2025-12-30 19:15:45 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:48 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:15:52 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:15:54 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:16:33 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:17:01 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:17:06 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:10 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:17:12 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:14 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:19 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:17:25 | NETWORK | CPU | CPU usage exceeded 98%
+2025-12-30 19:17:27 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:30 | NETWORK | MEMORY | Memory usage crossed 99%
+2025-12-30 19:17:34 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-12-30 19:15:59 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:16:30 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:16:33 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:17:01 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:17:06 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:10 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:17:12 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:14 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:19 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:17:25 | NETWORK | CPU | CPU usage exceeded 98%
+2025-12-30 19:17:27 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:30 | NETWORK | MEMORY | Memory usage crossed 99%
+2025-12-30 19:17:34 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:40 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:42 | NETWORK | CPU | High CPU usage detected on core 2
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+
+2025-12-30 19:16:59 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:17:01 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:17:06 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:10 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:17:12 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:14 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:19 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:17:25 | NETWORK | CPU | CPU usage exceeded 98%
+2025-12-30 19:17:27 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:30 | NETWORK | MEMORY | Memory usage crossed 99%
+2025-12-30 19:17:34 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:40 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:42 | NETWORK | CPU | High CPU usage detected on core 2
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+
+2025-12-30 19:17:12 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:14 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:19 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:17:25 | NETWORK | CPU | CPU usage exceeded 98%
+2025-12-30 19:17:27 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:30 | NETWORK | MEMORY | Memory usage crossed 99%
+2025-12-30 19:17:34 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:40 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:42 | NETWORK | CPU | High CPU usage detected on core 2
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+
+2025-12-30 19:17:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:17:25 | NETWORK | CPU | CPU usage exceeded 98%
+2025-12-30 19:17:27 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:30 | NETWORK | MEMORY | Memory usage crossed 99%
+2025-12-30 19:17:34 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:40 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:42 | NETWORK | CPU | High CPU usage detected on core 2
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+
+2025-12-30 19:17:30 | NETWORK | MEMORY | Memory usage crossed 99%
+2025-12-30 19:17:34 | NETWORK | PROCESS | Service 'nginx' restarted due to failure
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:40 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:42 | NETWORK | CPU | High CPU usage detected on core 2
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-12-30 19:18:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:24 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:18:29 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+
+2025-12-30 19:17:37 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:40 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:42 | NETWORK | CPU | High CPU usage detected on core 2
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-12-30 19:18:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:24 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:18:29 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:34 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:18:37 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-12-30 19:17:44 | NETWORK | PROCESS | Process 'python' consuming excessive resources
+2025-12-30 19:17:48 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-12-30 19:18:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:24 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:18:29 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:34 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:18:37 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:18:42 | NETWORK | CPU | High CPU usage detected on core 5
+2025-12-30 19:18:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:48 | NETWORK | DISK | Disk read error on /dev/sda
+
+2025-12-30 19:17:52 | NETWORK | CPU | CPU temperature exceeded safe limit
+2025-12-30 19:17:54 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:17:56 | NETWORK | CPU | High CPU usage detected on core 7
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-12-30 19:18:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:24 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:18:29 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:34 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:18:37 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:18:42 | NETWORK | CPU | High CPU usage detected on core 5
+2025-12-30 19:18:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:48 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:52 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:56 | NETWORK | CPU | High CPU usage detected on core 3
+
+2025-12-30 19:18:00 | NETWORK | CPU | CPU usage exceeded 94%
+2025-12-30 19:18:02 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-12-30 19:18:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:24 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:18:29 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:34 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:18:37 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:18:42 | NETWORK | CPU | High CPU usage detected on core 5
+2025-12-30 19:18:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:48 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:52 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:56 | NETWORK | CPU | High CPU usage detected on core 3
+2025-12-30 19:19:01 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:19:06 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:19:08 | NETWORK | DISK | Unexpected disk disconnection detected
+
+2025-12-30 19:18:04 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:06 | NETWORK | KERNEL | System reboot initiated due to critical failure
+2025-12-30 19:18:10 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:14 | NETWORK | KERNEL | Kernel panic detected - System halted
+2025-12-30 19:18:16 | NETWORK | MEMORY | Memory usage crossed 92%
+2025-12-30 19:18:21 | NETWORK | DISK | SSD wear level critical - Replace drive soon
+2025-12-30 19:18:24 | NETWORK | MEMORY | Swap memory exhausted
+2025-12-30 19:18:29 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:34 | NETWORK | PROCESS | Unauthorized process execution detected
+2025-12-30 19:18:37 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:18:42 | NETWORK | CPU | High CPU usage detected on core 5
+2025-12-30 19:18:46 | NETWORK | MEMORY | Process killed due to out-of-memory condition
+2025-12-30 19:18:48 | NETWORK | DISK | Disk read error on /dev/sda
+2025-12-30 19:18:52 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:18:56 | NETWORK | CPU | High CPU usage detected on core 3
+2025-12-30 19:19:01 | NETWORK | MEMORY | Memory usage crossed 91%
+2025-12-30 19:19:06 | NETWORK | PROCESS | New process spawned: /usr/bin/unknown
+2025-12-30 19:19:08 | NETWORK | DISK | Unexpected disk disconnection detected
+2025-12-30 19:19:13 | NETWORK | KERNEL | Unauthorized process execution detected
+2025-12-30 19:19:18 | NETWORK | MEMORY | Swap memory exhausted
+

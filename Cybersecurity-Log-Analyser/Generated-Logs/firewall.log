@@ -1,0 +1,226 @@
+2025-04-06 19:37:58 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 5353 | Protocol: UDP | Reason: Data Exfiltration Detected
+2025-04-06 19:38:01 | FIREWALL | Action: ALLOWED | IP: 192.168.1.20 | Port: 8080 | Protocol: ICMP
+2025-04-06 19:38:06 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 25 | Protocol: HTTPS | Reason: Port Scanning
+2025-04-06 19:38:10 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 3306 | Protocol: DNS | Reason: Phishing Attempt
+2025-04-06 19:38:15 | FIREWALL | Action: MALICIOUS | IP: 192.168.1.20 | Port: 3389 | Protocol: HTTPS | Reason: Unencrypted Sensitive Data Transmission
+2025-04-06 19:38:18 | FIREWALL | Action: ALLOWED | IP: 192.168.1.20 | Port: 443 | Protocol: ICMP
+2025-04-06 19:38:22 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 5353 | Protocol: UDP | Reason: Privilege Escalation Attempt
+2025-04-06 19:38:24 | FIREWALL | Action: INTRUSION DETECTED | IP: 185.199.110.153 | Port: 3389 | Protocol: UDP | Reason: Data Exfiltration Detected
+2025-04-06 19:38:28 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 25 | Protocol: HTTP
+2025-04-06 19:38:30 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 8080 | Protocol: TCP | Reason: Port Scanning
+2025-04-06 19:38:34 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 3306 | Protocol: DNS | Reason: Ransomware Activity
+2025-04-06 19:38:38 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 25 | Protocol: TCP
+2025-04-06 19:38:40 | FIREWALL | Action: ALLOWED | IP: 10.10.10.2 | Port: 22 | Protocol: UDP
+2025-04-06 19:38:45 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 3389 | Protocol: HTTP | Reason: Use of Deprecated Protocols
+2025-04-06 19:38:47 | FIREWALL | Action: ALLOWED | IP: 192.168.1.20 | Port: 5353 | Protocol: DNS
+2025-04-06 19:38:49 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 3306 | Protocol: HTTP | Reason: Blacklisted IP
+2025-04-06 19:38:54 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 80 | Protocol: DNS
+2025-04-06 19:38:57 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 22 | Protocol: UDP
+2025-04-06 19:39:01 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 3389 | Protocol: HTTPS | Reason: Botnet Communication
+2025-04-06 19:39:05 | FIREWALL | Action: INTRUSION DETECTED | IP: 203.0.113.45 | Port: 443 | Protocol: DNS | Reason: Port Scanning
+2025-04-06 19:39:10 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 3306 | Protocol: HTTP | Reason: SQL Injection
+2025-04-06 19:39:12 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 22 | Protocol: HTTPS | Reason: Unencrypted Sensitive Data Transmission
+2025-04-06 19:39:15 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 25 | Protocol: HTTP | Reason: Phishing Attempt
+2025-04-06 19:39:17 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 80 | Protocol: DNS
+2025-04-06 19:39:21 | FIREWALL | Action: ALLOWED | IP: 10.10.10.2 | Port: 80 | Protocol: ICMP
+2025-04-06 19:39:25 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 3306 | Protocol: TCP
+2025-04-06 19:39:30 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 53 | Protocol: HTTPS | Reason: DDoS Attack
+2025-04-06 19:39:35 | FIREWALL | Action: BLOCKED | IP: 10.10.10.2 | Port: 25 | Protocol: HTTP | Reason: SQL Injection
+2025-04-06 19:39:37 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 25 | Protocol: ICMP
+2025-04-06 19:39:41 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 3306 | Protocol: UDP | Reason: Data Exfiltration Detected
+2025-04-06 19:39:46 | FIREWALL | Action: MALICIOUS | IP: 10.10.10.2 | Port: 443 | Protocol: HTTPS | Reason: SQL Injection
+2025-04-06 19:39:49 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 5353 | Protocol: HTTPS
+2025-04-06 19:39:53 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 5353 | Protocol: ICMP
+2025-04-06 19:39:58 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 22 | Protocol: HTTP | Reason: Port Scanning
+2025-04-06 19:40:00 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 5353 | Protocol: TCP
+2025-04-06 19:40:04 | FIREWALL | Action: MALICIOUS | IP: 192.168.1.20 | Port: 443 | Protocol: TCP | Reason: Unrecognized Source
+2025-04-06 19:40:06 | FIREWALL | Action: MALICIOUS | IP: 192.168.1.20 | Port: 22 | Protocol: HTTPS | Reason: DDoS Attack
+2025-04-06 19:40:10 | FIREWALL | Action: BLOCKED | IP: 10.10.10.2 | Port: 80 | Protocol: UDP | Reason: Port Scanning
+2025-04-06 19:40:13 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 8080 | Protocol: TCP
+2025-04-06 19:40:15 | FIREWALL | Action: ALLOWED | IP: 10.10.10.2 | Port: 5353 | Protocol: UDP
+2025-04-06 19:40:17 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 3306 | Protocol: HTTPS
+2025-04-06 19:40:19 | FIREWALL | Action: INTRUSION DETECTED | IP: 185.199.110.153 | Port: 25 | Protocol: HTTP | Reason: Data Exfiltration Detected
+2025-04-06 19:40:23 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 443 | Protocol: TCP | Reason: Suspicious User Agent
+2025-04-06 19:40:28 | FIREWALL | Action: MALICIOUS | IP: 10.10.10.2 | Port: 5353 | Protocol: TCP | Reason: Unauthorized Access Attempt
+2025-04-06 19:40:30 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 80 | Protocol: HTTPS
+2025-04-06 19:40:32 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 5353 | Protocol: HTTPS | Reason: SQL Injection
+2025-04-06 19:40:37 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 53 | Protocol: DNS
+2025-04-06 19:40:42 | FIREWALL | Action: DROPPED | IP: 203.0.113.45 | Port: 3306 | Protocol: TCP
+2025-04-06 19:40:46 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 53 | Protocol: UDP | Reason: Blacklisted IP
+2025-04-06 19:40:48 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 22 | Protocol: ICMP
+2025-04-06 19:40:52 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 5353 | Protocol: HTTP
+2025-04-06 19:40:54 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 3306 | Protocol: ICMP
+2025-04-06 19:40:56 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 8080 | Protocol: HTTP
+2025-04-06 19:40:58 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 3306 | Protocol: HTTPS | Reason: Abnormal Request Frequency
+2025-04-06 19:41:00 | FIREWALL | Action: BLOCKED | IP: 10.10.10.2 | Port: 3389 | Protocol: ICMP | Reason: Ransomware Activity
+2025-04-06 19:41:05 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 25 | Protocol: UDP | Reason: Excessive Failed Logins
+2025-04-06 19:41:08 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 53 | Protocol: HTTP | Reason: Unusual Traffic
+2025-04-06 19:41:12 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 8080 | Protocol: ICMP
+2025-04-06 19:41:14 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 443 | Protocol: UDP | Reason: Abnormal Request Frequency
+2025-04-06 19:41:19 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 8080 | Protocol: TCP | Reason: Data Exfiltration Detected
+2025-04-06 19:41:21 | FIREWALL | Action: INTRUSION DETECTED | IP: 8.8.8.8 | Port: 53 | Protocol: HTTP | Reason: Unencrypted Sensitive Data Transmission
+2025-04-07 03:08:39 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 22 | Protocol: DNS | Reason: Blacklisted IP
+2025-04-07 03:08:43 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 5353 | Protocol: HTTPS | Reason: Excessive Failed Logins
+2025-04-07 03:08:45 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 443 | Protocol: TCP | Reason: Abnormal Request Frequency
+2025-04-07 03:08:50 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 8080 | Protocol: ICMP
+2025-04-07 03:08:53 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 25 | Protocol: UDP
+2025-04-07 03:08:56 | FIREWALL | Action: ALLOWED | IP: 203.0.113.45 | Port: 80 | Protocol: HTTPS
+2025-04-07 03:09:01 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 25 | Protocol: HTTP
+2025-04-07 03:09:06 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 3306 | Protocol: HTTPS | Reason: Data Exfiltration Detected
+2025-04-07 03:09:08 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 25 | Protocol: HTTP | Reason: Port Scanning
+2025-04-07 03:09:13 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 8080 | Protocol: UDP | Reason: Suspicious User Agent
+2025-04-07 03:09:17 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 5353 | Protocol: DNS
+2025-04-07 03:09:19 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 53 | Protocol: UDP | Reason: SQL Injection
+2025-04-07 03:09:23 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 22 | Protocol: UDP | Reason: DDoS Attack
+2025-04-07 03:09:28 | FIREWALL | Action: DROPPED | IP: 192.168.1.20 | Port: 25 | Protocol: DNS
+2025-04-07 03:09:32 | FIREWALL | Action: ALLOWED | IP: 192.168.1.20 | Port: 3306 | Protocol: TCP
+2025-04-07 03:09:34 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 8080 | Protocol: UDP
+2025-04-07 03:09:39 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 80 | Protocol: ICMP | Reason: Malware Signature Detected
+2025-04-07 03:09:42 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 3389 | Protocol: ICMP
+2025-04-07 03:09:47 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 22 | Protocol: HTTPS | Reason: Blacklisted IP
+2025-04-07 03:09:50 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 22 | Protocol: DNS | Reason: Suspicious User Agent
+2025-04-07 03:09:52 | FIREWALL | Action: MALICIOUS | IP: 8.8.8.8 | Port: 3306 | Protocol: UDP | Reason: Unauthorized Access Attempt
+2025-04-07 03:09:54 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 25 | Protocol: HTTPS
+2025-04-07 03:09:57 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 8080 | Protocol: DNS
+2025-04-07 03:10:00 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 8080 | Protocol: UDP | Reason: Unencrypted Sensitive Data Transmission
+2025-04-07 03:10:04 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 80 | Protocol: DNS | Reason: Excessive Failed Logins
+2025-04-07 03:10:07 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 3389 | Protocol: UDP | Reason: DDoS Attack
+2025-04-07 03:10:11 | FIREWALL | Action: DROPPED | IP: 192.168.1.20 | Port: 53 | Protocol: UDP
+2025-04-07 03:10:13 | FIREWALL | Action: ALLOWED | IP: 10.10.10.2 | Port: 80 | Protocol: ICMP
+2025-04-07 03:10:16 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 22 | Protocol: DNS
+2025-04-07 03:10:20 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 8080 | Protocol: HTTP
+2025-04-07 03:10:24 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 8080 | Protocol: TCP | Reason: Abnormal Request Frequency
+2025-04-07 03:10:29 | FIREWALL | Action: MALICIOUS | IP: 8.8.8.8 | Port: 3389 | Protocol: HTTPS | Reason: Privilege Escalation Attempt
+2025-04-07 03:10:32 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 443 | Protocol: TCP | Reason: Blacklisted IP
+2025-04-07 22:35:58 | FIREWALL | Action: ALLOWED | IP: 203.0.113.45 | Port: 443 | Protocol: DNS
+2025-04-07 22:36:03 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 22 | Protocol: ICMP
+2025-04-07 22:36:05 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 25 | Protocol: HTTPS | Reason: Excessive Failed Logins
+2025-04-07 22:36:09 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 22 | Protocol: ICMP
+2025-04-07 22:36:14 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 53 | Protocol: UDP | Reason: Blacklisted IP
+2025-04-07 22:36:19 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 8080 | Protocol: UDP
+2025-04-07 22:36:23 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 443 | Protocol: DNS | Reason: Phishing Attempt
+2025-04-07 22:36:25 | FIREWALL | Action: DROPPED | IP: 192.168.1.20 | Port: 3306 | Protocol: HTTPS
+2025-04-07 22:36:29 | FIREWALL | Action: MALICIOUS | IP: 8.8.8.8 | Port: 3389 | Protocol: TCP | Reason: Abnormal Request Frequency
+2025-04-07 22:36:34 | FIREWALL | Action: INTRUSION DETECTED | IP: 185.199.110.153 | Port: 53 | Protocol: DNS | Reason: Port Scanning
+2025-04-07 22:36:37 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 22 | Protocol: HTTPS
+2025-04-07 22:36:41 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 8080 | Protocol: HTTPS | Reason: Excessive Failed Logins
+2025-12-30 19:11:30 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 3389 | Protocol: TCP | Reason: Ransomware Activity
+2025-12-30 19:11:35 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 8080 | Protocol: HTTP
+2025-12-30 19:11:37 | FIREWALL | Action: INTRUSION DETECTED | IP: 203.0.113.45 | Port: 53 | Protocol: DNS | Reason: Use of Deprecated Protocols
+2025-12-30 19:11:40 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 443 | Protocol: DNS | Reason: Blacklisted IP
+2025-12-30 19:11:45 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 22 | Protocol: ICMP | Reason: Port Scanning
+2025-12-30 19:11:48 | FIREWALL | Action: MALICIOUS | IP: 8.8.8.8 | Port: 22 | Protocol: TCP | Reason: Data Exfiltration Detected
+2025-12-30 19:11:50 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 80 | Protocol: HTTPS | Reason: Unrecognized Source
+2025-12-30 19:11:54 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 443 | Protocol: HTTPS
+2025-12-30 19:11:59 | FIREWALL | Action: INTRUSION DETECTED | IP: 185.199.110.153 | Port: 443 | Protocol: HTTP | Reason: Botnet Communication
+2025-12-30 19:12:04 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 443 | Protocol: HTTP | Reason: SQL Injection
+2025-12-30 19:12:06 | FIREWALL | Action: DROPPED | IP: 203.0.113.45 | Port: 3306 | Protocol: UDP
+2025-12-30 19:12:11 | FIREWALL | Action: ALLOWED | IP: 203.0.113.45 | Port: 5353 | Protocol: HTTP
+2025-12-30 19:12:14 | FIREWALL | Action: INTRUSION DETECTED | IP: 8.8.8.8 | Port: 3306 | Protocol: ICMP | Reason: Use of Deprecated Protocols
+2025-12-30 19:12:17 | FIREWALL | Action: MALICIOUS | IP: 10.10.10.2 | Port: 8080 | Protocol: UDP | Reason: Unencrypted Sensitive Data Transmission
+2025-12-30 19:12:21 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 25 | Protocol: DNS
+2025-12-30 19:12:25 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 443 | Protocol: TCP
+2025-12-30 19:12:30 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 3389 | Protocol: DNS
+2025-12-30 19:12:35 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 443 | Protocol: HTTP | Reason: Excessive Failed Logins
+2025-12-30 19:12:40 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 25 | Protocol: ICMP
+2025-12-30 19:12:44 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 25 | Protocol: HTTPS | Reason: Unencrypted Sensitive Data Transmission
+2025-12-30 19:12:49 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 3306 | Protocol: ICMP | Reason: Unrecognized Source
+2025-12-30 19:12:54 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 3306 | Protocol: ICMP
+2025-12-30 19:12:59 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 8080 | Protocol: HTTPS
+2025-12-30 19:13:03 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 8080 | Protocol: HTTPS | Reason: Port Scanning
+2025-12-30 19:13:08 | FIREWALL | Action: DROPPED | IP: 192.168.1.20 | Port: 8080 | Protocol: HTTPS
+2025-12-30 19:13:10 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 5353 | Protocol: DNS | Reason: SQL Injection
+2025-12-30 19:13:13 | FIREWALL | Action: DROPPED | IP: 192.168.1.20 | Port: 3389 | Protocol: DNS
+2025-12-30 19:13:15 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 53 | Protocol: ICMP
+2025-12-30 19:13:20 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 22 | Protocol: HTTPS
+2025-12-30 19:13:25 | FIREWALL | Action: BLOCKED | IP: 10.10.10.2 | Port: 443 | Protocol: DNS | Reason: Abnormal Request Frequency
+2025-12-30 19:13:28 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 3306 | Protocol: DNS
+2025-12-30 19:13:30 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 53 | Protocol: DNS | Reason: Brute Force
+2025-12-30 19:13:32 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 3306 | Protocol: UDP | Reason: Cross-Site Scripting (XSS)
+2025-12-30 19:13:35 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 80 | Protocol: UDP
+2025-12-30 19:13:40 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 3306 | Protocol: UDP | Reason: Brute Force
+2025-12-30 19:13:43 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 22 | Protocol: TCP | Reason: Brute Force
+2025-12-30 19:13:46 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 22 | Protocol: TCP | Reason: Abnormal Request Frequency
+2025-12-30 19:13:49 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 80 | Protocol: TCP | Reason: Abnormal Request Frequency
+2025-12-30 19:13:51 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 5353 | Protocol: TCP
+2025-12-30 19:13:53 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 443 | Protocol: HTTPS | Reason: SQL Injection
+2025-12-30 19:13:56 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 22 | Protocol: HTTP | Reason: Data Exfiltration Detected
+2025-12-30 19:14:01 | FIREWALL | Action: MALICIOUS | IP: 192.168.1.20 | Port: 443 | Protocol: HTTP | Reason: Ransomware Activity
+2025-12-30 19:14:04 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 80 | Protocol: ICMP | Reason: Unauthorized Access Attempt
+2025-12-30 19:14:16 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 22 | Protocol: TCP | Reason: Privilege Escalation Attempt
+2025-12-30 19:14:21 | FIREWALL | Action: ALLOWED | IP: 192.168.1.20 | Port: 8080 | Protocol: ICMP
+2025-12-30 19:14:24 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 25 | Protocol: TCP | Reason: Botnet Communication
+2025-12-30 19:14:29 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 3306 | Protocol: ICMP | Reason: Botnet Communication
+2025-12-30 19:14:32 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 8080 | Protocol: TCP | Reason: Brute Force
+2025-12-30 19:14:34 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 3306 | Protocol: HTTPS | Reason: Brute Force
+2025-12-30 19:14:37 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 22 | Protocol: TCP | Reason: DDoS Attack
+2025-12-30 19:14:39 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 5353 | Protocol: DNS | Reason: Cross-Site Scripting (XSS)
+2025-12-30 19:14:42 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 5353 | Protocol: HTTP
+2025-12-30 19:14:46 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 25 | Protocol: ICMP
+2025-12-30 19:14:48 | FIREWALL | Action: MALICIOUS | IP: 192.168.1.20 | Port: 8080 | Protocol: DNS | Reason: Suspicious User Agent
+2025-12-30 19:14:53 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 3389 | Protocol: UDP
+2025-12-30 19:14:57 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 5353 | Protocol: TCP | Reason: Blacklisted IP
+2025-12-30 19:15:02 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 443 | Protocol: UDP
+2025-12-30 19:15:05 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 8080 | Protocol: HTTPS | Reason: Unrecognized Source
+2025-12-30 19:15:07 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 8080 | Protocol: ICMP
+2025-12-30 19:15:12 | FIREWALL | Action: INTRUSION DETECTED | IP: 203.0.113.45 | Port: 3306 | Protocol: ICMP | Reason: Unauthorized Access Attempt
+2025-12-30 19:15:14 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 3306 | Protocol: UDP | Reason: Abnormal Request Frequency
+2025-12-30 19:15:19 | FIREWALL | Action: ALLOWED | IP: 10.10.10.2 | Port: 25 | Protocol: HTTP
+2025-12-30 19:15:24 | FIREWALL | Action: INTRUSION DETECTED | IP: 203.0.113.45 | Port: 443 | Protocol: TCP | Reason: Ransomware Activity
+2025-12-30 19:15:26 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 80 | Protocol: UDP | Reason: Use of Deprecated Protocols
+2025-12-30 19:15:29 | FIREWALL | Action: DROPPED | IP: 45.33.29.10 | Port: 53 | Protocol: TCP
+2025-12-30 19:15:33 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 80 | Protocol: HTTPS | Reason: Port Scanning
+2025-12-30 19:15:37 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 8080 | Protocol: DNS | Reason: Privilege Escalation Attempt
+2025-12-30 19:15:39 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 53 | Protocol: UDP | Reason: SQL Injection
+2025-12-30 19:15:42 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 443 | Protocol: HTTPS | Reason: Brute Force
+2025-12-30 19:15:46 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 443 | Protocol: UDP | Reason: Unencrypted Sensitive Data Transmission
+2025-12-30 19:15:48 | FIREWALL | Action: ALLOWED | IP: 203.0.113.45 | Port: 25 | Protocol: TCP
+2025-12-30 19:15:50 | FIREWALL | Action: INTRUSION DETECTED | IP: 203.0.113.45 | Port: 80 | Protocol: UDP | Reason: DDoS Attack
+2025-12-30 19:15:54 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 443 | Protocol: UDP | Reason: Unencrypted Sensitive Data Transmission
+2025-12-30 19:15:56 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 3306 | Protocol: ICMP | Reason: Unauthorized Access Attempt
+2025-12-30 19:15:58 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 80 | Protocol: HTTPS | Reason: Unrecognized Source
+2025-12-30 19:16:30 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 8080 | Protocol: ICMP
+2025-12-30 19:16:35 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 3389 | Protocol: DNS
+2025-12-30 19:16:59 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 443 | Protocol: TCP | Reason: Port Scanning
+2025-12-30 19:17:04 | FIREWALL | Action: MALICIOUS | IP: 45.33.29.10 | Port: 25 | Protocol: HTTPS | Reason: Cross-Site Scripting (XSS)
+2025-12-30 19:17:07 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 3389 | Protocol: DNS | Reason: Suspicious User Agent
+2025-12-30 19:17:10 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 5353 | Protocol: HTTPS | Reason: Blacklisted IP
+2025-12-30 19:17:12 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 3306 | Protocol: HTTP | Reason: Data Exfiltration Detected
+2025-12-30 19:17:17 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 3389 | Protocol: UDP | Reason: Unencrypted Sensitive Data Transmission
+2025-12-30 19:17:19 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 3389 | Protocol: ICMP | Reason: Use of Deprecated Protocols
+2025-12-30 19:17:24 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 22 | Protocol: ICMP | Reason: Unrecognized Source
+2025-12-30 19:17:29 | FIREWALL | Action: DROPPED | IP: 10.10.10.2 | Port: 8080 | Protocol: HTTP
+2025-12-30 19:17:32 | FIREWALL | Action: ALLOWED | IP: 203.0.113.45 | Port: 3389 | Protocol: UDP
+2025-12-30 19:17:36 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 22 | Protocol: DNS | Reason: Excessive Failed Logins
+2025-12-30 19:17:41 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 3306 | Protocol: ICMP
+2025-12-30 19:17:46 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 5353 | Protocol: ICMP | Reason: DDoS Attack
+2025-12-30 19:17:48 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 3306 | Protocol: UDP
+2025-12-30 19:17:53 | FIREWALL | Action: INTRUSION DETECTED | IP: 45.33.29.10 | Port: 25 | Protocol: ICMP | Reason: Excessive Failed Logins
+2025-12-30 19:17:58 | FIREWALL | Action: BLOCKED | IP: 8.8.8.8 | Port: 25 | Protocol: TCP | Reason: Unencrypted Sensitive Data Transmission
+2025-12-30 19:18:00 | FIREWALL | Action: MALICIOUS | IP: 10.10.10.2 | Port: 25 | Protocol: UDP | Reason: Data Exfiltration Detected
+2025-12-30 19:18:04 | FIREWALL | Action: DROPPED | IP: 8.8.8.8 | Port: 25 | Protocol: HTTP
+2025-12-30 19:18:06 | FIREWALL | Action: MALICIOUS | IP: 8.8.8.8 | Port: 5353 | Protocol: TCP | Reason: Phishing Attempt
+2025-12-30 19:18:09 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 53 | Protocol: HTTP
+2025-12-30 19:18:12 | FIREWALL | Action: DROPPED | IP: 192.168.1.20 | Port: 53 | Protocol: TCP
+2025-12-30 19:18:14 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 53 | Protocol: TCP | Reason: Brute Force
+2025-12-30 19:18:17 | FIREWALL | Action: MALICIOUS | IP: 185.199.110.153 | Port: 53 | Protocol: DNS | Reason: Unrecognized Source
+2025-12-30 19:18:21 | FIREWALL | Action: DROPPED | IP: 203.0.113.45 | Port: 3306 | Protocol: HTTPS
+2025-12-30 19:18:23 | FIREWALL | Action: MALICIOUS | IP: 203.0.113.45 | Port: 3389 | Protocol: DNS | Reason: Unrecognized Source
+2025-12-30 19:18:27 | FIREWALL | Action: BLOCKED | IP: 185.199.110.153 | Port: 443 | Protocol: TCP | Reason: Port Scanning
+2025-12-30 19:18:29 | FIREWALL | Action: BLOCKED | IP: 192.168.1.20 | Port: 53 | Protocol: DNS | Reason: Data Exfiltration Detected
+2025-12-30 19:18:31 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 8080 | Protocol: DNS
+2025-12-30 19:18:36 | FIREWALL | Action: MALICIOUS | IP: 10.10.10.2 | Port: 443 | Protocol: UDP | Reason: SQL Injection
+2025-12-30 19:18:40 | FIREWALL | Action: MALICIOUS | IP: 8.8.8.8 | Port: 80 | Protocol: ICMP | Reason: Use of Deprecated Protocols
+2025-12-30 19:18:45 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 3389 | Protocol: HTTP | Reason: Excessive Failed Logins
+2025-12-30 19:18:49 | FIREWALL | Action: ALLOWED | IP: 10.10.10.2 | Port: 22 | Protocol: ICMP
+2025-12-30 19:18:51 | FIREWALL | Action: BLOCKED | IP: 203.0.113.45 | Port: 5353 | Protocol: DNS | Reason: Excessive Failed Logins
+2025-12-30 19:18:53 | FIREWALL | Action: ALLOWED | IP: 45.33.29.10 | Port: 5353 | Protocol: HTTPS
+2025-12-30 19:18:56 | FIREWALL | Action: MALICIOUS | IP: 192.168.1.20 | Port: 53 | Protocol: HTTPS | Reason: Suspicious User Agent
+2025-12-30 19:19:01 | FIREWALL | Action: ALLOWED | IP: 192.168.1.20 | Port: 5353 | Protocol: DNS
+2025-12-30 19:19:05 | FIREWALL | Action: BLOCKED | IP: 45.33.29.10 | Port: 8080 | Protocol: DNS | Reason: Botnet Communication
+2025-12-30 19:19:07 | FIREWALL | Action: ALLOWED | IP: 8.8.8.8 | Port: 80 | Protocol: ICMP
+2025-12-30 19:19:12 | FIREWALL | Action: INTRUSION DETECTED | IP: 192.168.1.20 | Port: 22 | Protocol: DNS | Reason: Unrecognized Source
+2025-12-30 19:19:14 | FIREWALL | Action: INTRUSION DETECTED | IP: 10.10.10.2 | Port: 5353 | Protocol: UDP | Reason: Use of Deprecated Protocols
+2025-12-30 19:19:16 | FIREWALL | Action: BLOCKED | IP: 10.10.10.2 | Port: 8080 | Protocol: UDP | Reason: Phishing Attempt
+2025-12-30 19:19:19 | FIREWALL | Action: DROPPED | IP: 185.199.110.153 | Port: 3306 | Protocol: ICMP
+2025-12-30 19:19:24 | FIREWALL | Action: ALLOWED | IP: 185.199.110.153 | Port: 80 | Protocol: ICMP
