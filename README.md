@@ -22,9 +22,8 @@ A live web application to parse, analyze, and visualize log files for potential 
 
 ## Installation & Setup
 1. Clone the repository:
-2. ```bash
-    Make sure the project is in D drive.
-    ```
+2. Make sure the project is in D drive.
+  
     ```bash
     git clone https://github.com/yourusername/live-cybersecurity-log-analyzer.git
     cd live-cybersecurity-log-analyzer
