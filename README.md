@@ -50,10 +50,10 @@ A live web application to parse, analyze, and visualize log files for potential 
 - How to use your credentials for update? Just make .env file in src and paste this :-
     ```
     EMAIL_SENDER=
-    EMAIL_PASSWORD=Test0125@
+    EMAIL_PASSWORD=
     EMAIL_RECEIVER=
     TWILIO_SID=
-    TWILIO_AUTH_TOKEN=38d1a3cdda7755b6824120a1c6d4ffbb
+    TWILIO_AUTH_TOKEN=
     TWILIO_PHONE=
     ADMIN_PHONE=
     ```
